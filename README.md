@@ -1,1 +1,2 @@
 #  Audio guide for patient regarding doctor prescripts info
+Routinely patients are advised orally health cares like diet, lifestyle and medication dosage and frequency in the patient-doctor visit, which is often very difficult for a patient to remember after he goes home. Here the Doctor's advice in form of audio is converted to a QR code and QR code is then sent to the patient in form of an email so that the patient can hear the prescription at his/her home.
